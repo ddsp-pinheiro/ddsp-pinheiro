@@ -2,6 +2,6 @@
 
 # **Olá, seja bem vindo!**
 
-> #### Você pode encontrar em:[LinkedIn](https://www.linkedin.com/in/daniele-pinheiro/), [Email](ddsp.pinheiro@gmail.com)
+> #### Você me pode encontrar em: [LinkedIn](https://www.linkedin.com/in/daniele-pinheiro/),  ddsp.pinheiro@gmail.com
 
 ![end](https://github.com/ddsp-pinheiro/ddsp-pinheiro/blob/main/GitHubEND.png)
