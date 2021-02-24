@@ -3,9 +3,12 @@
 #                         **Olá, seja bem vindo!**
 
 
-* Cursando o Bootcamp da [Generation Brazil](https://brazil.generation.org/). ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?ddsp-pinheiro=anuraghazra&theme=dark&show_icons=true)
+* Cursando o Bootcamp da [Generation Brazil](https://brazil.generation.org/). 
 
 *  Atualmente estou estudando: Java, Spring Boot e Angular.
+
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ddsp-pinheiro&show_icons=true&theme=tokyonight)
 
 
 > #### Você me pode encontrar em: [LinkedIn](https://www.linkedin.com/in/daniele-pinheiro/),  ddsp.pinheiro@gmail.com
