@@ -3,7 +3,7 @@
 #                         **Olá, seja bem vindo!**
 
 
-* Cursando o Bootcamp da [Generation Brazil](https://brazil.generation.org/)
+* Cursando o Bootcamp da [Generation Brazil](https://brazil.generation.org/). ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?ddsp-pinheiro=anuraghazra&theme=dark&show_icons=true)
 
 *  Atualmente estou estudando: Java, Spring Boot e Angular.
 
