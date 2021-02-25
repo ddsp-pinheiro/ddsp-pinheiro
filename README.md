@@ -1,4 +1,4 @@
-![](https://github.com/ddsp-pinheiro/ddsp-pinheiro/blob/main/GitHubTOP-looping.gif)
+![](https://github.com/ddsp-pinheiro/ddsp-pinheiro/blob/main/GitHub_Top-looping.gif)
 
 #                         **Olá, seja bem vindo!**
 
