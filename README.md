@@ -11,6 +11,6 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ddsp-pinheiro&theme=blue-green)
 
 
-> #### Você me pode encontrar em: <i class="fa fa-linkedin" aria-hidden="true"></i> [LinkedIn](https://www.linkedin.com/in/daniele-pinheiro/),  ddsp.pinheiro@gmail.com
+> #### Você me pode encontrar em:  [<i class="fa fa-linkedin" aria-hidden="true"></i>](https://www.linkedin.com/in/daniele-pinheiro/),  ddsp.pinheiro@gmail.com
 
 ![end](https://github.com/ddsp-pinheiro/ddsp-pinheiro/blob/main/GitHubEND.png)
