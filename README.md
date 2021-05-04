@@ -3,7 +3,7 @@
 ##                        **Olá, seja bem vindo!**
 
 
-* Cursando o Bootcamp da **[Generation Brazil](https://brazil.generation.org/)**. 
+* Formada no Bootcamp da **[Generation Brazil](https://brazil.generation.org/)**. 
 
 *  Atualmente estou estudando: Java, MySQL, Spring Boot e Angular.
 
