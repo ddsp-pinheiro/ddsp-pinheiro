@@ -1,9 +1,8 @@
-![](https://github.com/ddsp-pinheiro/ddsp-pinheiro/blob/main/GitHub_Top-looping.gif)
 
 ##                        **Olá, seja bem vindo!**
 
 
-* Formada no Bootcamp da **[Generation Brazil](https://brazil.generation.org/)**. 
+* Formação no Bootcamp da **[Generation Brazil](https://brazil.generation.org/)**. 
 
 *  Atualmente estou estudando: Java, MySQL, Spring Boot e Angular.
 
