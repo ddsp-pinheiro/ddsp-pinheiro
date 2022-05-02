@@ -4,7 +4,7 @@
 
 * Formação no Bootcamp da **[Generation Brazil](https://brazil.generation.org/)**. 
 
-*  Cuesando ADS na Fiap.
+*  Cursando ADS na Fiap.
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ddsp-pinheiro&theme=blue-green)
