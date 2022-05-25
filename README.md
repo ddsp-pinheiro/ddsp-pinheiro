@@ -5,6 +5,8 @@
 
 ### About me
 
+* I’m currently working on wBrain as Developer Java.
+
 * I'm a graduate of **[Generation Brazil](https://brazil.generation.org/)** bootcamp . 
 
 * I'm studying Systems Analysis and Development at **[FIAP](https://www.fiap.com.br/)**.
