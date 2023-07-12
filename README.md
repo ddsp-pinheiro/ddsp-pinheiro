@@ -5,7 +5,7 @@
 
 ### About me
 
-* I’m currently working on **[wBrain](https://www.wbrain.me)** as Developer Java.
+* I’m currently working on **[PagSeguro](https://pagseguro.uol.com.br)** as Developer Java.
 
 * I'm a graduate of **[Generation Brazil](https://brazil.generation.org/)** bootcamp . 
 
