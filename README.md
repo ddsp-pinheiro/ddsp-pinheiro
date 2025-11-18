@@ -5,11 +5,11 @@
 
 ### About me
 
-* I’m currently working on **[PagSeguro](https://pagseguro.uol.com.br)** as Developer Java.
+* I’m currently working on **Itau** as Developer Java.
 
 * I'm a graduate of **[Generation Brazil](https://brazil.generation.org/)** bootcamp . 
 
-* I'm studying Systems Analysis and Development at **[FIAP](https://www.fiap.com.br/)**.
+* I'm studying Systems Analysis and Development at **UFABC**.
 
 | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ddsp-pinheiro&layout=compact&theme=blue-green)     | ![Dan's Status](https://github-readme-stats.vercel.app/api?username=ddsp-pinheiro&show_icons=false&theme=blue-green&hiding_specific_stats) |
 | ---      | ---       |
